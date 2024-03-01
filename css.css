@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(lightblue, lightgreen)
+}
+.noam {
+    color: black;
+}
+span {
+    vertical-align: middle;
+
+}
+
+input{
+    vertical-align: middle;  
+}
